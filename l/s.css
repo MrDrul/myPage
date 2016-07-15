@@ -1,0 +1,35 @@
+body{
+	background-image: url(img/y.jpg)
+}
+
+ul,ol,li{
+	margin-left: 300px;
+}
+
+a{
+	color:  rgba(127,255,0, 0.2);
+	text-decoration: none;
+	font-size: 20px;
+}
+a:hover{
+	font-size: 40px;
+	color: rgb(0,255,255)
+}
+table{
+	
+	background-color: #00BFFF;
+	border: 3px solid #BA55D3;
+	border-radius: 50px;
+	color: #DB7093;
+}
+th,td{
+	text-align: center;
+	border-radius: 50px;
+	border: 3px solid #BA55D3;
+}
+input{
+	border: 2px solid #FFFACD;
+	border-radius: 40px;
+	background-color: #8B4513;
+	color: #D2691E;
+}
